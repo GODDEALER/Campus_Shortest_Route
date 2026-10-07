@@ -1,0 +1,4 @@
+pble2.exe
+*.o
+.vscode/
+.idea/
